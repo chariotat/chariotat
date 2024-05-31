@@ -6,13 +6,10 @@ Cybersecurity
 
 - <b>vulnerability Scan (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>packet sniffing)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Wireshark)</b>
+  - [packet sniffing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>risk assesmentl</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [JWipe (why we do a risk assesment)](https://github.com/chariotat/risk-assesement/blob/main/RISK%20ASSEMENT.docx%20CHAR.pdf)
 - <b>C# (.NET Desktop Applications)</b>
 
 <h2>📺 Certifications</h2>
